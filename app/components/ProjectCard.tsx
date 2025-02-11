@@ -20,7 +20,7 @@ export function ProjectCard({ title, description, github }: ProjectCardProps) {
           className="mt-4 bg-blue-500 hover:bg-blue-600 text-white w-full"
         >
           <a href={github} target="_blank" rel="noopener noreferrer">
-            GitHub`da Gör
+            See on Github
           </a>
         </Button>
       </CardContent>
