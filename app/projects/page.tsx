@@ -2,7 +2,7 @@ import { ProjectCard } from "../components/ProjectCard";
 
 const projects = [
   {
-    title: OpenLink",
+    title: "OpenLink",
     description: "Collect Your Links Onto one Place",
     github: "https://github.com/DrHalley/openlink",
   },
