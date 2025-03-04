@@ -6,6 +6,11 @@ const projects = [
     description: "Collect Your Links Onto one Place",
     github: "https://github.com/DrHalley/openlink",
   },
+  {
+    title: "Shorting",
+    description: "Shorten your links",
+    github: "https://github.com/DrHalley/shorting",
+  },
 ];
 
 export default function ProjectsPage() {
