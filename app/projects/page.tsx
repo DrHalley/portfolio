@@ -3,13 +3,18 @@ import { ProjectCard } from "../components/ProjectCard";
 const projects = [
   {
     title: "OpenLink",
-    description: "Collect Your Links Onto one Place",
+    description: "Collect your links into one place",
     github: "https://github.com/DrHalley/openlink",
   },
   {
     title: "Shorting",
     description: "Shorten your links",
     github: "https://github.com/DrHalley/shorting",
+  },
+  {
+    title: "McWeb",
+    description: "Send commands to your minecraft server",
+    github: "https://github.com/DrHalley/McWeb",
   },
 ];
 
